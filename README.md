@@ -1,5 +1,5 @@
 # ChatGPT-Prompts
-A collection of ChatGPT prompts
+一些ChatGPT的prompt收藏。
 
 
 # 更新说明
@@ -25,3 +25,12 @@ A collection of ChatGPT prompts
 
 ### Changed
 - 优化了部分功能的交互逻辑。
+
+# 使用方法
+
+将prompts目录内的json文件的内容复制到你的ChatGPT里即可。
+
+# Prompt列表
+
+- **Magento专家 1.0**: [MagentoMaster_v1.json](https://github.com/jcplus/ChatGPT-Prompts/blob/main/prompts/MagentoMaster_v1.json)
+- **Symfony专家 1.0**: [SymfonyMaster_v1.json](https://github.com/jcplus/ChatGPT-Prompts/blob/main/prompts/SymfonyMaster_v1.json)
